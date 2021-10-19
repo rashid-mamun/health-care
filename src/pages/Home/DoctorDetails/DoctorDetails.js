@@ -3,6 +3,7 @@ import { Col, Container, Image, Row } from 'react-bootstrap';
 import { useParams } from 'react-router';
 import { Link } from 'react-router-dom';
 import NotFound from '../../NotFound/NotFound';
+import './DoctorDetails.css'
 
 const DoctorDetails = () => {
     const { doctorId } = useParams();
@@ -55,7 +56,14 @@ const DoctorDetails = () => {
                                     <div className="btn-appointment">
                                         <Link to='/appoinment'>Make an Appoinment</Link>
                                     </div>
-                                    <p className='py-2'>{degree}</p>
+                                    <p className='py-2'>
+                                        {
+                                            degree.map(d => <Degree key={d.id}
+                                                deg={d}
+                                            >
+                                            </Degree>)
+                                        }
+                                    </p>
 
                                 </div>
                             </Col>
@@ -65,11 +73,24 @@ const DoctorDetails = () => {
                                 <h6 className="text-success">{title}</h6>
                                 <div className='py-3'>
                                     <h5>Degree</h5>
-                                    <p className='ms-3'>{degree}</p>
+                                    <div className='ms-3'>
+
+                                        {
+                                            degree.map(d => <Degree key={d.id}
+                                                deg={d}
+                                            >
+                                            </Degree>)
+                                        }
+
+                                    </div>
                                 </div>
                                 <div className='py-3'>
                                     <h5>Experience</h5>
-                                    <p className='ms-3'>{experience}</p>
+                                    <p className='ms-3'>{
+                                        experience.map(exp => <Experience
+                                            exp={exp}
+                                        ></Experience>)
+                                    }</p>
 
                                 </div>
                                 <div className='py-3'>
@@ -100,5 +121,22 @@ const DoctorDetails = () => {
     );
 
 };
+
+const Experience = ({ exp }) => {
+    return (
+        <div>
+            <span> -{exp}</span>
+        </div>
+    );
+}
+const Degree = ({ deg }) => {
+    console.log();
+
+    return (
+        <div>
+            <span>-{deg}</span>
+        </div>
+    )
+}
 
 export default DoctorDetails;
