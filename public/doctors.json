@@ -1,0 +1,309 @@
+[
+    {
+        "id": "1",
+        "name": "PROF. BRIG GEN MAMUN MOSTAFI (RTD.)",
+        "title": "SPECIALIST IN NEPHROLOGY AND JOINT DISEASE",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718857.jpg",
+        "experience": [
+            "Graded Specialist in Medicine, CMH Dhaka, 1990- 1994.",
+            "Nephrologist CMH Dhaka- 1995-2000",
+            "Associate Prof Nephrology, Armed Forces Medical College, Dhaka Cant, 2002-2007",
+            "Professor of Nephrology, Armed Forces Medical College, Dhaka: 2008-2012",
+            "Head of Medicine & Nephrology, CMH Rangpur and Army Medical College Rangpur ( 2013-2015)",
+            "Honorary Professor of Nephrology, Prime Medical College, Rangpur, 2013-2015",
+            "Head of Nephrology CMH Dhaka: Feb 2016 till date",
+            "Chief Physician and Head of Nephrology: CMH Dhaka and AFMC since Apr 2016 to Oct 2017.",
+            "Head (Ex) Department of Nephrology, Bangladesh Army",
+            "Senior Consultant and Coordinator Department of Nephrology,  Bangladesh Specialized Hospital."
+        ],
+        "degree": [
+            "MBBS",
+            "MACP (USA)",
+            "MRACP(Australia)",
+            "FCPS (Med)",
+            "FRCP (I)"
+        ],
+        "specialization": "SPECIALIST IN NEPHROLOGY AND JOINT DISEASE"
+    },
+    {
+        "id": "2",
+        "name": "DR. ABU SALEH AHMED",
+        "title": "SPECIALIST IN MEDICINE & NEPHROLOGY, ASSOCIATE PROFESSOR, DHAKA MEDICAL COLLEGE & HOSPITAL",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718063.jpg",
+        "experience": [
+            "Worked as a faculty in Kushtia Medical College and Hospital.",
+            "Worked as an Assistant Professor at National Institute of Kidney Disease and Urology.",
+            "Worked as Consultant in Care Specialized Hospital & Prescription Point Ltd."
+        ],
+        "degree": [
+            "MBBS (DMC)",
+            "FCPS (Medicine)",
+            "MD (Nephrology)"
+        ],
+        "specialization": "Medicine Specialist & Kidney Specialist"
+    },
+    {
+        "id": "3",
+        "name": " Dr. Nirjharini Joarder",
+        "title": "CONSULTANT, TRANSFUSION MEDICINE, DEPART OF LABORATORY MEDICINE, BSHL",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1573963244.jpg",
+        "experience": [
+            "Consultant, Transfusion Medicine, Depart of Laboratory Medicine, BSHL"
+        ],
+        "degree": [
+            "MBBS (CMC)",
+            "DBST (BSMMU)"
+        ],
+        "specialization": "CONSULTANT, TRANSFUSION MEDICINE"
+    },
+    {
+        "id": "4",
+        "name": " Prof. Dr. S. A. Khan",
+        "title": "Urologist & Transplant Surgeon",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557723390.jpg",
+        "experience": [
+            "Former Professor of Urology (Transplant Surgery) Bangabandhu Sheikh Mujib Medical University"
+        ],
+        "degree": [
+            "MBBS",
+            "FCPS",
+            "MS (Urology"
+        ],
+        "specialization": "Urologist & Transplant Surgeon"
+    },
+    {
+        "id": "5",
+        "name": " Prof. Dr. Mizanur Rahman",
+        "title": "Urologist & Andrologist",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1567682848.jpg",
+        "experience": [
+            "Director & Professor National Institute of Kidney Diseases & Urology (NIKDU), Dhaka",
+            "Consultant, Bangladesh Specialized Hospital"
+        ],
+        "degree": [
+            "MBBS",
+            "FCPS (Surgery)",
+            "MS (Urology)"
+        ],
+        "specialization": "Urologist & Andrologist"
+    },
+    {
+        "id": "6",
+        "name": " Prof. Kamal Ibrahim",
+        "title": "Anesthesiology",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718544.jpg",
+        "experience": [
+            "Consultant, Bangladesh Specialized Hospital"
+        ],
+        "degree": [
+            "MBBS",
+            "FCPS",
+            "FICS (USA)"
+        ],
+        "specialization": "Anesthesiology"
+    },
+    {
+        "id": "7",
+        "name": " Dr. M M Shahidur Rahman",
+        "title": "Consultant, Cardiac Anaesthesiologist",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718720.jpg",
+        "experience": [
+            "Consultant, Cardiac Anaesthesiologist, Bangladesh Specialized Hospital Ltd."
+        ],
+        "degree": [
+            "MBBS",
+            "FCPS (Anaesthesiology)",
+            "MCPS",
+            "DA"
+        ],
+        "specialization": "Consultant,Cardiac Anaeshesiologist"
+    },
+    {
+        "id": "8",
+        "name": " Dr. Md. Iqbal",
+        "title": "Consultant, Department of Anesthesia & ICU",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718437.jpg",
+        "experience": [
+            "Consultant, Bangladesh Specialized Hospital"
+        ],
+        "degree": [
+            "MBBS",
+            "MCPS (Anes)",
+            "DA (DU)"
+        ],
+        "specialization": "Anesthesia in Cardiac Surgery Pediatric Cardiac Surgery"
+    },
+    {
+        "id": "9",
+        "name": " Dr. Khalifa Mahmud Tarik",
+        "title": "Consultant, Cardiac Surgery",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718609.jpg",
+        "experience": [
+            "Worked at LAB-AID Cardiac Hospital (Consultant)",
+            "Dhaka Shishu Hospital (Sr. Consultant)",
+            "SQUARE Hospital",
+            "Nephrologist CMH Dhaka- 1995-2000",
+            "Apollo Hospital"
+        ],
+        "degree": [
+            "MBBS (Dhaka)",
+            "MS (CTS)"
+        ],
+        "specialization": "CABG and Congenital cardiac surgery both in adult and child."
+    },
+    {
+        "id": "10",
+        "name": " Dr. Md. Shaukat Ali",
+        "title": "onsultant, Cardiac Surgery",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557728617.jpg",
+        "experience": [
+            "National Heart Foundation Hospital - 7 years",
+            "Chattagram Metropolitan Hospital - 2 years",
+            "Dr Sirajurl Islam Medical College & Hospital - 2 years"
+        ],
+        "degree": [
+            "MBBS",
+            "FCPS (Surgery)",
+            " MS (Cardiovascular & Thoracic Surgery)",
+            "Clinical Fellow (NUH, Singapore)"
+        ],
+        "specialization": "Cardiac Surgery"
+    },
+    {
+        "id": "11",
+        "name": " Prof. Dr. Md. Samsul Arfin",
+        "title": "Consultant , Gastrointestinal, Liver & Pancreatic Diseases",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557725813.jpg",
+        "experience": [
+            " In the year 1991, Prof. Dr. M. S. Arfin joined the department of gastrointestinal, hepatobiliary and pancreatic disorders- BIRDEM where he groomed himself up as one of the most dependable gastroenterologist of the country.",
+            "At Square Hospital, he provided his services as Consultant-Gastroenterology and Interventionist for last 11 years .",
+            "Prof. M. S. Arfin joined Bangladesh Specialized Hospital Limited (BSHL) as an expert interventional gastroenterologist from 1st September 2018."
+        ],
+        "degree": [
+            "MBBS",
+            "FCPS (Medicine)"
+        ],
+        "specialization": "Prof. Dr. M. S. Arfin is a world class expert in interventional gastroenterology and performs almost all endoscopic procedures with full confidence including all sorts of therapeutic ERCP procedures."
+    },
+    {
+        "id": "12",
+        "name": " Dr. Md. Masudur Rahman",
+        "title": "Specialist in Medicine, Liver & Gastroenterology, Associate Professor, Sheikh Russel Gastro Liver Institute & Hospital",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1568636992.jpg",
+        "experience": [
+            "Medical officer in BIRDEM ",
+            "Consultant, Bangladesh Specialized Hospital",
+            "Associate Profesor Dept. of Gastroenterology, Sheikh Russel Gastroliver Institute and Hospital, Dhaka"
+        ],
+        "degree": [
+            "MBBS (DMC)",
+            "FCPS (Medicine)",
+            "MD (Gastroenterology)",
+            "FACP",
+            "FACG",
+            "FRCP"
+        ],
+        "specialization": "SPECIALIST IN MEDICINE, LIVER & GASTROENTEROLOGY"
+    },
+    {
+        "id": "13",
+        "name": " Dr. Enamul Karim",
+        "title": "Medicine, Gastrointestinal & Liver disease Specialist",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1567682632.jpg",
+        "experience": [
+            "SQUARE Hospital",
+            "Apollo Hospital"
+        ],
+        "degree": [
+            "MBBS",
+            "FCPS (Medicine)",
+            "MD (Gastroenterology)"
+        ],
+        "specialization": "Medicine, Gastrointestinal & Liver disease Specialist"
+    },
+    {
+        "id": "14",
+        "name": " Dr. Forhad Hossain Md. Shahed",
+        "title": "Consultant, Bangladesh Specialized Hospital",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1592902606.jpg",
+        "experience": [
+            "Apollo Hospital",
+            "SQUARE Hospital"
+        ],
+        "degree": [
+            "MBBS",
+            "BCS (Health)",
+            "MD (Hepatology)"
+        ],
+        "specialization": "Medicine, Gastrointestinal & Liver disease Specialist"
+    },
+    {
+        "id": "15",
+        "name": "Prof. Dr. K.M.J. Zaki",
+        "title": "Liver Specialist Consultant, Dept. of Hepatology Bangladesh Specialized Hospital",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1592902626.jpg",
+        "experience": [
+            "SQUARE Hospital",
+            "Apollo Hospital"
+        ],
+        "degree": [
+            "MBBS (DMC)",
+            "MD (Hepatology)"
+        ],
+        "specialization": "Liver Specialist"
+    },
+    {
+        "id": "16",
+        "name": " Prof. Dr. Md. Amirul Haque",
+        "title": "Specialist Medicine, Diabetes & Neurology , Chief Consultant Neuromedicine",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718137.jpg",
+        "experience": [
+            "Former Professor & Head of Neuromedicine BIRDEM & IMC",
+            "Former Professor of Medicine,  Ibrahim Medical College",
+            " Chief Consultant Neuromedicine"
+        ],
+        "degree": [
+            "MBBS(DMC)",
+            " FCPS (BD)",
+            "FRCP (Glasg)",
+            "FACP (USA)",
+            "DCN (London)"
+        ],
+        "specialization": "SPECIALIST MEDICINE, DIABETES & NEUROLOGY "
+    },
+    {
+        "id": "17",
+        "name": " Prof. Dr. Narayan Chandra Kundu",
+        "title": "Professor & Head, Dept. of Neurology, Shaheed Suhrawardy Medical College & Hospital",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557719161.jpg",
+        "experience": [
+            "Head of The Department, Shaheed Suhrawardy Medical College Hospital, Dhaka",
+            "Working in neurology for last 14 years"
+        ],
+        "degree": [
+            "MBBS",
+            "FCPS (Medicine)",
+            "MD (Neurology)",
+            "MACP (America)"
+        ],
+        "specialization": "Seizure disorder, Headache"
+    },
+    {
+        "id": "18",
+        "name": "DR. SIRAJEE SHAFIQUL ISLAM",
+        "title": "Associate Professor, Neurology (NINS) Stroke & Neuro-intervention Specialist",
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1575954210.jpg",
+        "experience": [
+            "Clinical Fellowship, Neurointervention (India)",
+            "Visiting Fellowship, Stroke Intervention (Germany)",
+            " Associate Professor, Neurology (NINS)",
+            "  National Institute of Neuroscience & Hospital, Dhaka"
+        ],
+        "degree": [
+            "MBBS",
+            "MD (Neuromedicine)",
+            "FINR (India)"
+        ],
+        "specialization": "Neurology (NINS) Stroke & Neuro-intervention Specialist"
+    }
+]

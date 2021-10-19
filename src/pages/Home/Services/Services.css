@@ -1,0 +1,23 @@
+.services-container {
+    background-color: #D4E3E5;
+}
+
+.services-col {
+    background: blueviolet;
+    padding: 15px 0;
+    color: white;
+    letter-spacing: .025em;
+}
+.services-col:hover{
+    background-color: #2E3192;
+    cursor: pointer;
+}
+.border-one {
+    border-right: 2px solid white;
+}
+.count {
+    background-color: #4652A5;
+    color: white;
+    letter-spacing: .025em;
+    
+}

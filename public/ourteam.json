@@ -1,0 +1,62 @@
+[
+    {
+        "name": "PROF. DR. MD. SAMSUL ARFIN",
+        "img": "https://bdspecializedhospital.com/storage/app/public/media/1557725813.jpg",
+        "position": "Chairman"
+    },
+    {
+        "name": "ENGR. M. A. KABIR",
+        "img": "http://www.bdspecializedhospital.com/UI/FrontEnd/img/directors/md.jpg",
+        "position": "Managing Director"
+    },
+    {
+        "name": "AL EMRAN CHOWDHURY",
+        "img": "http://www.bdspecializedhospital.com/UI/FrontEnd/img/directors/Al-Emran-Chowdhury.jpg",
+        "position": "Director & CEO"
+    },
+    {
+        "name": "DR. MAHBUBUR RAHMAN CHOWDHURY",
+        "img": "http://www.bdspecializedhospital.com/UI/FrontEnd/img/directors/chairman.jpg",
+        "position": "Director"
+    },
+    {
+        "name": "PROF. DR. ALI HOSSAIN",
+        "img": "https://bdspecializedhospital.com/storage/app/public/media/1557718123.jpg",
+        "position": "Director"
+    },
+    {
+        "name": "ENGR. MOHAMMAD ALI JINNAH",
+        "img": "http://www.bdspecializedhospital.com/UI/FrontEnd/img/directors/jinnah.jpg",
+        "position": "Director"
+    },
+    {
+        "name": "PROF. DR. S M KHODEZA NAHAR BEGUM",
+        "img": "https://bdspecializedhospital.com/storage/app/public/media/1557718625.jpg",
+        "position": "Director"
+    },
+    {
+        "name": "BRIG. GEN. PROF. DR. MAMUN MOSTAFI",
+        "img": "https://bdspecializedhospital.com/storage/app/public/media/1557718857.jpg",
+        "position": "Director"
+    },
+    {
+        "name": "DR. KHALIFA MAHMUD TARIK",
+        "img": "http://www.bdspecializedhospital.com/UI/FrontEnd/img/directors/Khalifa_MahumudTarik.jpg",
+        "position": "Director"
+    },
+    {
+        "name": "DR. MUHAMMAD TAWFIQUE",
+        "img": "https://bdspecializedhospital.com/storage/app/public/media/1557724812.jpg",
+        "position": "Director"
+    },
+    {
+        "name": "DR. ABU SALEH AHMED",
+        "img": "https://bdspecializedhospital.com/storage/app/public/media/1557718063.jpg",
+        "position": "Director"
+    },
+    {
+        "name": "FAHIM KABIR",
+        "img": "http://www.bdspecializedhospital.com/UI/FrontEnd/img/directors/Fahim-Kabir.jpg",
+        "position": "Director"
+    }
+]

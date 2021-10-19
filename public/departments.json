@@ -1,0 +1,347 @@
+[
+    {
+        "doctors": [
+            {
+                "id": "1",
+                "name": "PROF. BRIG GEN MAMUN MOSTAFI (RTD.)",
+                "title": "SPECIALIST IN NEPHROLOGY AND JOINT DISEASE",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718857.jpg",
+                "experience": [
+                    "Graded Specialist in Medicine, CMH Dhaka, 1990- 1994.",
+                    "Nephrologist CMH Dhaka- 1995-2000",
+                    "Associate Prof Nephrology, Armed Forces Medical College, Dhaka Cant, 2002-2007",
+                    "Professor of Nephrology, Armed Forces Medical College, Dhaka: 2008-2012",
+                    "Head of Medicine & Nephrology, CMH Rangpur and Army Medical College Rangpur ( 2013-2015)",
+                    "Honorary Professor of Nephrology, Prime Medical College, Rangpur, 2013-2015",
+                    "Head of Nephrology CMH Dhaka: Feb 2016 till date",
+                    "Chief Physician and Head of Nephrology: CMH Dhaka and AFMC since Apr 2016 to Oct 2017.",
+                    "Head (Ex) Department of Nephrology, Bangladesh Army",
+                    "Senior Consultant and Coordinator Department of Nephrology,  Bangladesh Specialized Hospital."
+                ],
+                "degree": [
+                    "MBBS",
+                    "MACP (USA)",
+                    "MRACP(Australia)",
+                    "FCPS (Med)",
+                    "FRCP (I)"
+                ],
+                "specialization": "SPECIALIST IN NEPHROLOGY AND JOINT DISEASE"
+            },
+            {
+                "id": "2",
+                "name": "DR. ABU SALEH AHMED",
+                "title": "SPECIALIST IN MEDICINE & NEPHROLOGY, ASSOCIATE PROFESSOR, DHAKA MEDICAL COLLEGE & HOSPITAL",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718063.jpg",
+                "experience": [
+                    "Worked as a faculty in Kushtia Medical College and Hospital.",
+                    "Worked as an Assistant Professor at National Institute of Kidney Disease and Urology.",
+                    "Worked as Consultant in Care Specialized Hospital & Prescription Point Ltd."
+                ],
+                "degree": [
+                    "MBBS (DMC)",
+                    "FCPS (Medicine)",
+                    "MD (Nephrology)"
+                ],
+                "specialization": "Medicine Specialist & Kidney Specialist"
+            }
+        ],
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557639918.png",
+        "name": " Nephrology",
+        "description": "The Department of Nephrology of Bangladesh Specialized Hospital is a leading kidney disease related health service provider of all modalities and kidney support, includes diagnosis, evaluation, and management of all acute and chronic disease conditions. It provides high quality dialysis services with various specially developed dialysis equipment’s. The department is also part of our kidney transplant program in association with Department of Urology.We have expert Nephrology Consultants, junior doctors, nurses and technicians who are highly experienced in patient care, and are dedicated for specialized care to patients with kidney disorders."
+    },
+    {
+        "doctors": [
+            {
+                "id": "6",
+                "name": " Prof. Kamal Ibrahim",
+                "title": "Anesthesiology",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718544.jpg",
+                "experience": [
+                    "Consultant, Bangladesh Specialized Hospital"
+                ],
+                "degree": [
+                    "MBBS",
+                    "FCPS",
+                    "FICS (USA)"
+                ],
+                "specialization": "Anesthesiology"
+            },
+            {
+                "id": "7",
+                "name": " Dr. M M Shahidur Rahman",
+                "title": "Consultant, Cardiac Anaesthesiologist",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718720.jpg",
+                "experience": [
+                    "Consultant, Cardiac Anaesthesiologist, Bangladesh Specialized Hospital Ltd."
+                ],
+                "degree": [
+                    "MBBS",
+                    "FCPS (Anaesthesiology)",
+                    "MCPS",
+                    "DA"
+                ],
+                "specialization": "Consultant,Cardiac Anaeshesiologist"
+            },
+            {
+                "id": "8",
+                "name": " Dr. Md. Iqbal",
+                "title": "Consultant, Department of Anesthesia & ICU",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718437.jpg",
+                "experience": [
+                    "Consultant, Bangladesh Specialized Hospital"
+                ],
+                "degree": [
+                    "MBBS",
+                    "MCPS (Anes)",
+                    "DA (DU)"
+                ],
+                "specialization": "Anesthesia in Cardiac Surgery Pediatric Cardiac Surgery"
+            }
+        ],
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1599458422.png",
+        "name": " Anaesthesia",
+        "description": "Department of Anaesthesiology of Bangladesh Specialized Hospital Ltd provides a range of anaesthetic, preoperative and pain management services to patients of all ages. There are also several centres under the Department of Anaesthesiology which includes the Pain Management Centre and the Hyperbaric & Diving Medicine Centre"
+    },
+    {
+        "doctors": [
+            {
+                "id": "9",
+                "name": " Dr. Khalifa Mahmud Tarik",
+                "title": "Consultant, Cardiac Surgery",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718609.jpg",
+                "experience": [
+                    "Worked at LAB-AID Cardiac Hospital (Consultant)",
+                    "Dhaka Shishu Hospital (Sr. Consultant)",
+                    "SQUARE Hospital",
+                    "Nephrologist CMH Dhaka- 1995-2000",
+                    "Apollo Hospital"
+                ],
+                "degree": [
+                    "MBBS (Dhaka)",
+                    "MS (CTS)"
+                ],
+                "specialization": "CABG and Congenital cardiac surgery both in adult and child."
+            },
+            {
+                "id": "10",
+                "name": " Dr. Md. Shaukat Ali",
+                "title": "Consultant, Cardiac Surgery",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557728617.jpg",
+                "experience": [
+                    "National Heart Foundation Hospital - 7 years",
+                    "Chattagram Metropolitan Hospital - 2 years",
+                    "Dr Sirajurl Islam Medical College & Hospital - 2 years"
+                ],
+                "degree": [
+                    "MBBS",
+                    "FCPS (Surgery)",
+                    " MS (Cardiovascular & Thoracic Surgery)",
+                    "Clinical Fellow (NUH, Singapore)"
+                ],
+                "specialization": "Cardiac Surgery"
+            }
+        ],
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557644622.png",
+        "name": " Cardiac surgery",
+        "description": "Founded in mid-2016, the Cardiac surgery department of Bangladesh Specialized Hospital boasts a strong team, the members of which are veterans in their fields who have gained considerable professional experience in cardiac surgery, cardiac anaesthesia and ICU care, both inland and abroad. The infrastructure has two state of the art Cardiac Surgical Operating Theatres and a dedicated Cardiac ICU with 8 individually monitored beds. The ICU staff nurse to patient ratio is 1:1 during all shifts. For renal failure patients requiring heart surgery we have the facility to perform hemodialysis (i.e. CRRT, SLED) in our Cardiac ICU.Since its founding the department has done over 100 cardiac surgeries with excellent results. Spectrum comprises of coronary artery bypass grafting, valve replacement and congenital heart surgery."
+    },
+    {
+        "doctors": [
+            {
+                "id": "16",
+                "name": " Prof. Dr. Md. Amirul Haque",
+                "title": "Specialist Medicine, Diabetes & Neurology , Chief Consultant Neuromedicine",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557718137.jpg",
+                "experience": [
+                    "Former Professor & Head of Neuromedicine BIRDEM & IMC",
+                    "Former Professor of Medicine,  Ibrahim Medical College",
+                    " Chief Consultant Neuromedicine"
+                ],
+                "degree": [
+                    "MBBS(DMC)",
+                    " FCPS (BD)",
+                    "FRCP (Glasg)",
+                    "FACP (USA)",
+                    "DCN (London)"
+                ],
+                "specialization": "SPECIALIST MEDICINE, DIABETES & NEUROLOGY "
+            },
+            {
+                "id": "17",
+                "name": " Prof. Dr. Narayan Chandra Kundu",
+                "title": "Professor & Head, Dept. of Neurology, Shaheed Suhrawardy Medical College & Hospital",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557719161.jpg",
+                "experience": [
+                    "Head of The Department, Shaheed Suhrawardy Medical College Hospital, Dhaka",
+                    "Working in neurology for last 14 years"
+                ],
+                "degree": [
+                    "MBBS",
+                    "FCPS (Medicine)",
+                    "MD (Neurology)",
+                    "MACP (America)"
+                ],
+                "specialization": "Seizure disorder, Headache"
+            },
+            {
+                "id": "18",
+                "name": "DR. SIRAJEE SHAFIQUL ISLAM",
+                "title": "Associate Professor, Neurology (NINS) Stroke & Neuro-intervention Specialist",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1575954210.jpg",
+                "experience": [
+                    "Clinical Fellowship, Neurointervention (India)",
+                    "Visiting Fellowship, Stroke Intervention (Germany)",
+                    " Associate Professor, Neurology (NINS)",
+                    "  National Institute of Neuroscience & Hospital, Dhaka"
+                ],
+                "degree": [
+                    "MBBS",
+                    "MD (Neuromedicine)",
+                    "FINR (India)"
+                ],
+                "specialization": "Neurology (NINS) Stroke & Neuro-intervention Specialist"
+            }
+        ],
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557644647.png",
+        "name": " Neurology",
+        "description": "The Department of Neuro Medicine at the BSHL is dedicated to exceptional patient care center is fortunate to have state-of-the-art facilities for evaluating patients with neurological diseases, performing the latest clinical and basic science investigations.Our regional and national referral base and the capacity of our hospitals and new outpatient space ensure that our trainees, faculty, staff and patients have the best possible experience."
+    },
+    {
+        "doctors": [
+            {
+                "id": "11",
+                "name": " Prof. Dr. Md. Samsul Arfin",
+                "title": "Consultant , Gastrointestinal, Liver & Pancreatic Diseases",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557725813.jpg",
+                "experience": [
+                    " In the year 1991, Prof. Dr. M. S. Arfin joined the department of gastrointestinal, hepatobiliary and pancreatic disorders- BIRDEM where he groomed himself up as one of the most dependable gastroenterologist of the country.",
+                    "At Square Hospital, he provided his services as Consultant-Gastroenterology and Interventionist for last 11 years .",
+                    "Prof. M. S. Arfin joined Bangladesh Specialized Hospital Limited (BSHL) as an expert interventional gastroenterologist from 1st September 2018."
+                ],
+                "degree": [
+                    "MBBS",
+                    "FCPS (Medicine)"
+                ],
+                "specialization": "Prof. Dr. M. S. Arfin is a world class expert in interventional gastroenterology and performs almost all endoscopic procedures with full confidence including all sorts of therapeutic ERCP procedures."
+            },
+            {
+                "id": "12",
+                "name": " Dr. Md. Masudur Rahman",
+                "title": "Specialist in Medicine, Liver & Gastroenterology, Associate Professor, Sheikh Russel Gastro Liver Institute & Hospital",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1568636992.jpg",
+                "experience": [
+                    "Medical officer in BIRDEM ",
+                    "Consultant, Bangladesh Specialized Hospital",
+                    "Associate Profesor Dept. of Gastroenterology, Sheikh Russel Gastroliver Institute and Hospital, Dhaka"
+                ],
+                "degree": [
+                    "MBBS (DMC)",
+                    "FCPS (Medicine)",
+                    "MD (Gastroenterology)",
+                    "FACP",
+                    "FACG",
+                    "FRCP"
+                ],
+                "specialization": "SPECIALIST IN MEDICINE, LIVER & GASTROENTEROLOGY"
+            },
+            {
+                "id": "13",
+                "name": " Dr. Enamul Karim",
+                "title": "Medicine, Gastrointestinal & Liver disease Specialist",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1567682632.jpg",
+                "experience": [
+                    "SQUARE Hospital",
+                    "Apollo Hospital"
+                ],
+                "degree": [
+                    "MBBS",
+                    "FCPS (Medicine)",
+                    "MD (Gastroenterology)"
+                ],
+                "specialization": "Medicine, Gastrointestinal & Liver disease Specialist"
+            },
+            {
+                "id": "14",
+                "name": " Dr. Forhad Hossain Md. Shahed",
+                "title": "Consultant, Bangladesh Specialized Hospital",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1592902606.jpg",
+                "experience": [
+                    "Apollo Hospital",
+                    "SQUARE Hospital"
+                ],
+                "degree": [
+                    "MBBS",
+                    "BCS (Health)",
+                    "MD (Hepatology)"
+                ],
+                "specialization": "Medicine, Gastrointestinal & Liver disease Specialist"
+            },
+            {
+                "id": "15",
+                "name": "Prof. Dr. K.M.J. Zaki",
+                "title": "Liver Specialist Consultant, Dept. of Hepatology Bangladesh Specialized Hospital",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1592902626.jpg",
+                "experience": [
+                    "SQUARE Hospital",
+                    "Apollo Hospital"
+                ],
+                "degree": [
+                    "MBBS (DMC)",
+                    "MD (Hepatology)"
+                ],
+                "specialization": "Liver Specialist"
+            }
+        ],
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557639910.png",
+        "name": "Gastroenterology & Hepatology",
+        "description": "Department of Gastroenterology & Hepatology is devoted to the clinical care of patients with gastrointestinal and liver disorders. The department is home to excellent patient care, and our specialists employ the most advanced diagnostic and therapeutic endoscopy services to ensure the best outcomes for each patient.Working closely with a dedicated staff that includes doctors, technologists, nurses, dietitians and more, our care is unsurpassed with the kind of quality and compassion you can expect from a leader in healthcare."
+    },
+    {
+        "doctors": [
+            {
+                "id": "3",
+                "name": " Dr. Nirjharini Joarder",
+                "title": "CONSULTANT, TRANSFUSION MEDICINE, DEPART OF LABORATORY MEDICINE, BSHL",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1573963244.jpg",
+                "experience": [
+                    "Consultant, Transfusion Medicine, Depart of Laboratory Medicine, BSHL"
+                ],
+                "degree": [
+                    "MBBS (CMC)",
+                    "DBST (BSMMU)"
+                ],
+                "specialization": "CONSULTANT, TRANSFUSION MEDICINE"
+            }
+        ],
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557997713.png",
+        "name": " Blood Bank",
+        "description": "BSHL Blood Bank is a place for testing, screening, collecting, processing and storing of whole blood, packed red blood cells, fresh frozen plasma and platelet concentrate gathered as a result of blood donation by family members, friends and volunteer donors, preserved for patients use in this hospital and also other hospitals on request. We are committed to ensure 24hrs service of providing most secure blood transfusion policy and maintain quality in every aspects. BSHL blood bank provides safest possible blood for the patients which follows the American Association of Blood Bank (AABB) guideline, USFDA guideline is used for donor infectious diseases screening (HBs Ag, HIV-1 &II, Anti – HCV, VDRL, Malaria). The blood bank is located at Level-11 at extension building and is a government approved blood bank"
+    },
+    {
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1558333609.png",
+        "name": "Emergency",
+        "description": "Here for you 24 hours a day 7 days a week.If you need to reach someone in the Emergency room, please call 01640-183109.Bangladesh specialized Hospital EMERGENCY DEPARTMENT is a state if art emergency dept. of Bangladesh.This department is staffed with skilled physicians, nurses and other medical staffs who are specialized in emergency patient care. Our physicians are trained and experienced in emergency medicine.Our staffs of experienced doctors and nurses take pride in providing our patients with care they need in those critical, lifesaving minutes. They work together to stabilize, diagnose and treat patients. Many times additional tests, BLOOD WORK, XRAYS, CT SCAN/MRI may be required."
+    },
+    {
+        "doctors": [
+            {
+                "id": "4",
+                "name": " Prof. Dr. S. A. Khan",
+                "title": "Urologist & Transplant Surgeon",
+                "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557723390.jpg",
+                "experience": [
+                    "Former Professor of Urology (Transplant Surgery) Bangabandhu Sheikh Mujib Medical University"
+                ],
+                "degree": [
+                    "MBBS",
+                    "FCPS",
+                    "MS (Urology"
+                ],
+                "specialization": "Urologist & Transplant Surgeon"
+            }
+        ],
+        "img": "https://www.bdspecializedhospital.com/storage/app/public/media/1557639896.png",
+        "name": " Urology",
+        "description": "The Department of Urology at Bangladesh Specialized Hospital is dedicated to providing state-of-the-art medical and surgical care for all specialties of male and female urology (both adult and pediatric), as well as male infertility problems. Each year, our highly experienced urologists treat hundreds of patients, providing expert diagnosis, care and surgeries for complete range of urological conditions.We offer patients confidential evaluation, treatment and follow-up care with state-of –the-art resources, like ultra-modern operation theatres (OT), Lithotripsy unit pediatric urology, Reconstructive urology, uro-oncology as well as modern diagnostic facilities like urodynamic studies. The department has become a national referral surgical center."
+    }
+]
