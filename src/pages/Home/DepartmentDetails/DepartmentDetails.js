@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
 import { useParams } from 'react-router';
 import { Link } from 'react-router-dom';
+import Doctor from '../Doctor/Doctor';
 
 const DepartmentDetails = () => {
 
@@ -54,9 +55,9 @@ const DepartmentDetails = () => {
                             <Row lg={2} md={2} sm={1} xs={1} className='g-3'>
 
                                 {
-                                    doctors.map(doctor => <Mamun
+                                    doctors.map(doctor => <Doctor
 
-                                        doctor={doctor}></Mamun>)
+                                        doctor={doctor}></Doctor>)
                                 }
                             </Row>
                         </div>
@@ -70,47 +71,47 @@ const DepartmentDetails = () => {
         </div>
     );
 };
-const Mamun = ({ doctor }) => {
+// const Mamun = ({ doctor }) => {
 
-    const { name, title, img, id } = doctor;
-    return (
-        <div>
-            <Col>
-                <Card className='p-3 border-0 shadow rounded-3 course cart' style={{ minHeight: "550px" }}>
-                    <div className='text-center'>
-                        <Card.Img variant="top" src={img} style={{
-                            width: '250px', height: '250px',
-                            borderRadius: "50%"
-                        }} />
-                    </div>
-                    <Card.Body>
-                        <Card.Title className='text-success'>{name}</Card.Title>
-                        <Card.Text>
-                            <p><small>{title}</small></p>
-                        </Card.Text>
-                    </Card.Body>
-                    <Card.Footer className='border-0 bg-white  d-flex justify-content-center align-items-center'>
-
-
-
-                        <p>   <Link to={`/doctor/${id}`} >
-                            <button className="btn-primary rounded py-1 me-2">Doctor Details</button>
-                        </Link></p>
-
-                        <p> <Link to={`/appoinment`} >
-                            <button className="btn-regular">Appoinment</button>
-                        </Link>
-                        </p>
+//     const { name, title, img, id } = doctor;
+//     return (
+//         <div>
+//             <Col>
+//                 <Card className='p-3 border-0 shadow rounded-3 course cart' style={{ minHeight: "550px" }}>
+//                     <div className='text-center'>
+//                         <Card.Img variant="top" src={img} style={{
+//                             width: '250px', height: '250px',
+//                             borderRadius: "50%"
+//                         }} />
+//                     </div>
+//                     <Card.Body>
+//                         <Card.Title className='text-success'>{name}</Card.Title>
+//                         <Card.Text>
+//                             <p><small>{title}</small></p>
+//                         </Card.Text>
+//                     </Card.Body>
+//                     <Card.Footer className='border-0 bg-white  d-flex justify-content-center align-items-center'>
 
 
 
+//                         <p>   <Link to={`/doctor/${id}`} >
+//                             <button className="btn-primary rounded py-1 me-2">Doctor Details</button>
+//                         </Link></p>
 
-                    </Card.Footer>
-                </Card>
-            </Col>
-        </div>
-    )
-}
+//                         <p> <Link to={`/appoinment`} >
+//                             <button className="btn-regular">Appoinment</button>
+//                         </Link>
+//                         </p>
+
+
+
+
+//                     </Card.Footer>
+//                 </Card>
+//             </Col>
+//         </div>
+//     )
+// }
 
 
 
