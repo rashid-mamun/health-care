@@ -33,7 +33,9 @@ const Header = () => {
                             {/* <NavLink to='/login' className='nav-item' activeStyle={activeStyle}>Log In</NavLink> */}
 
                             {
-                                user?.email && <span className='text-white'> Hello {user.displayName}</span>
+                                user?.email && <div className="d-flex justify-content-center align-items-center">
+                                    <span className='text-white'> Hello {user.displayName}</span>
+                                </div>
                             }
                             {
                                 user?.email ? <button className='btn fw-bold text-white' onClick={handleLogOut}> log Out</button> :
