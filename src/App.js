@@ -9,9 +9,11 @@ import DoctorDetails from './pages/Home/DoctorDetails/DoctorDetails';
 import Doctors from './pages/Home/Doctors/Doctors';
 
 import Home from './pages/Home/Home/Home';
+import Appoinment from './pages/Login/Appoinment/Appoinment';
 import Login from './pages/Login/Login/Login';
 import PrivateRoute from './pages/Login/PrivateRoute/PrivateRoute';
 import Register from './pages/Login/Register/Register';
+import ThankYou from './pages/Login/ThankYou/ThankYou';
 import NotFound from './pages/NotFound/NotFound';
 import OurTeam from './pages/OurTeam/OurTeam/OurTeam';
 import Footer from './pages/Shared/Footer/Footer';
@@ -19,7 +21,7 @@ import Header from './pages/Shared/Header/Header';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ letterSpacing: ".005em" }}>
 
       <AuthProvider>
         <BrowserRouter>
@@ -49,6 +51,14 @@ function App() {
               <DoctorDetails>
 
               </DoctorDetails>
+            </PrivateRoute>
+            <PrivateRoute path='/appoinment'>
+              <Appoinment>
+
+              </Appoinment>
+            </PrivateRoute>
+            <PrivateRoute path='/thankyou'>
+              <ThankYou></ThankYou>
             </PrivateRoute>
             <PrivateRoute path='/ourteam'>
               <OurTeam></OurTeam>

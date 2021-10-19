@@ -68,6 +68,7 @@ const Services = () => {
 
                 </Row>
             </Container>
+            {/* count section */}
             <div className='pt-5 pb-5 count'>
                 <Row md={4} sm={2} xs={2} className="g-3">
                     <Col>

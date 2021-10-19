@@ -11,7 +11,7 @@ const Doctor = ({ doctor }) => {
     return (
         <div>
             <Col>
-                <Card className='p-3 border-0 shadow rounded-3 course cart' style={{ minHeight: "500px" }}>
+                <Card className='p-3 border-0 shadow rounded-3 course cart' style={{ minHeight: "550px" }}>
                     <div className='text-center'>
                         <Card.Img variant="top" src={img} style={{
                             width: '250px', height: '250px',
@@ -31,12 +31,12 @@ const Doctor = ({ doctor }) => {
                         <p>   <Link to={`/doctor/${id}`} >
                             <button className="btn-primary rounded py-1 me-2">Doctor Details</button>
                         </Link></p>
-                        {
-                            user.email && <p> <Link to={`/doctor/${id}`} >
-                                <button className="btn-regular">Appoinment</button>
-                            </Link>
-                            </p>
-                        }
+
+                        <p> <Link to={`/appoinment`} >
+                            <button className="btn-regular">Appoinment</button>
+                        </Link>
+                        </p>
+
 
 
 

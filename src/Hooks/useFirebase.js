@@ -8,6 +8,8 @@ import { useEffect } from 'react';
 
 initializeAuthentication();
 const useFirebase = () => {
+
+    // different set
     const [user, setUser] = useState({});
     const [error, setError] = useState('');
     const [isLoading, setIsLoading] = useState(true);
@@ -15,12 +17,15 @@ const useFirebase = () => {
     const auth = getAuth();
     const googleProvider = new GoogleAuthProvider();
 
+    // sign in using google
     const signInUsingGoogle = () => {
         setIsLoading(true);
         return signInWithPopup(auth, googleProvider)
             .finally(() => setIsLoading(false));
 
     }
+    // observer
+
     useEffect(() => {
         const unsubscribed = onAuthStateChanged(auth, (user) => {
             if (user) {
@@ -34,7 +39,7 @@ const useFirebase = () => {
         return () => unsubscribed;
     }, []);
 
-
+    // logout
     const handleLogOut = () => {
         setIsLoading(true);
         signOut(auth)

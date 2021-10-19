@@ -6,7 +6,7 @@ import NotFound from '../../NotFound/NotFound';
 
 const DoctorDetails = () => {
     const { doctorId } = useParams();
-    console.log(doctorId);
+    // console.log(doctorId);
     const [doctors, setDoctors] = useState([]);
     const [doctorDetails, setDoctorDetails] = useState([]);
 
@@ -26,7 +26,7 @@ const DoctorDetails = () => {
         }
 
     }, [doctors]);
-    console.log(doctorDetails);
+    // console.log(doctorDetails);
 
     const { name, title, img, experience, specialization, degree } = doctorDetails;
 
@@ -53,7 +53,7 @@ const DoctorDetails = () => {
                                     <p className="text-primary py-2 fw-bold"><small>{title}</small></p>
 
                                     <div className="btn-appointment">
-                                        <Link to='/appointment'>Make an Appoinment</Link>
+                                        <Link to='/appoinment'>Make an Appoinment</Link>
                                     </div>
                                     <p className='py-2'>{degree}</p>
 

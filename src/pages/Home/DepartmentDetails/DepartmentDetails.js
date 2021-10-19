@@ -37,16 +37,17 @@ const DepartmentDetails = () => {
     }, [departments]);
 
 
-    console.log(departmentDetails.doctors);
+    // console.log(departmentDetails.doctors);
 
     // console.log(departmentName);
     return (
         <div className=''>
             <Container>
-                <div className='py-3 shadow px-5'>
-                    <h3>Department: <small className='text-success'>{departmentDetails?.name}</small></h3>
-                    <p>{departmentDetails?.description}</p>
-                    {
+                <div className='py-5 shadow px-5'>
+                    <h3>Department:</h3>
+                    <h4> <small className='text-success ms-2'>{departmentDetails?.name}</small></h4>
+                    <p className="ms-2 py-3">{departmentDetails?.description}</p>
+                    {/* {
                         (doctors.length >= 1) && <div>
 
                             <h3 className='text-center pb-3'>BSHL Doctors</h3>
@@ -63,48 +64,48 @@ const DepartmentDetails = () => {
                                 }
                             </Row>
                         </div>
-                    }
+                    } */}
                 </div>
             </Container>
         </div>
     );
 };
 
-const SingleDoctor = ({ doctor }) => {
+// const SingleDoctor = ({ doctor }) => {
 
-    // console.log(doctor);
-    const { name, img, title } = doctor;
-    return (
-        <div>
-            <Col>
-                <Card className='p-3 border-0 shadow rounded-3 course cart' style={{ minHeight: "500px" }}>
-                    <div className='text-center'>
-                        <Card.Img variant="top" src={img} style={{
-                            width: '250px', height: '250px',
-                            borderRadius: "50%"
-                        }} />
-                    </div>
-                    <Card.Body>
-                        <Card.Title className='text-success'>{name}</Card.Title>
-                        <Card.Text>
-                            <p><small>{title}</small></p>
-                        </Card.Text>
-                    </Card.Body>
-                    <Card.Footer className='border-0 bg-white text-center '>
+//     // console.log(doctor);
+//     const { name, img, title } = doctor;
+//     return (
+//         <div>
+//             <Col>
+//                 <Card className='p-3 border-0 shadow rounded-3 course cart' style={{ minHeight: "500px" }}>
+//                     <div className='text-center'>
+//                         <Card.Img variant="top" src={img} style={{
+//                             width: '250px', height: '250px',
+//                             borderRadius: "50%"
+//                         }} />
+//                     </div>
+//                     <Card.Body>
+//                         <Card.Title className='text-success'>{name}</Card.Title>
+//                         <Card.Text>
+//                             <p><small>{title}</small></p>
+//                         </Card.Text>
+//                     </Card.Body>
+//                     <Card.Footer className='border-0 bg-white text-center '>
 
 
 
-                        <Link to={`/course/${name}`} >
-                            <button className="btn-regular">Doctor Details</button>
-                        </Link>
+//                         <Link to={`/course/${name}`} >
+//                             <button className="btn-regular">Doctor Details</button>
+//                         </Link>
 
-                    </Card.Footer>
-                </Card>
-            </Col>
+//                     </Card.Footer>
+//                 </Card>
+//             </Col>
 
-        </div>
-    );
+//         </div>
+//     );
 
-}
+// }
 
 export default DepartmentDetails;
