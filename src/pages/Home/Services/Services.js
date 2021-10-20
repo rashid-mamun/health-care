@@ -7,7 +7,10 @@ const Services = () => {
     return (
         <div className='text-center pt-5 pb-5 services-container'>
             <Container>
-                <h1 className='pb-4 text-success'>OUR SERVICES & FACILITIES</h1>
+                {/* #08183A */}
+                <small className="text-danger fw-bold py-2">Medical quality care</small>
+                <h1 className='pb-4 text-success'>Exactly What Facilities We Provided</h1>
+
                 <Row md={3} sm={2} xs={1} className='g-5 pb-5'>
 
 

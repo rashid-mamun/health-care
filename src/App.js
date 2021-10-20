@@ -10,6 +10,7 @@ import Doctors from './pages/Home/Doctors/Doctors';
 
 import Home from './pages/Home/Home/Home';
 import Appoinment from './pages/Login/Appoinment/Appoinment';
+import ContractUs from './pages/Login/ContractUs/ContractUs';
 import Login from './pages/Login/Login/Login';
 import PrivateRoute from './pages/Login/PrivateRoute/PrivateRoute';
 import Register from './pages/Login/Register/Register';
@@ -56,6 +57,9 @@ function App() {
               <Appoinment>
 
               </Appoinment>
+            </PrivateRoute>
+            <PrivateRoute path='/contractus'>
+              <ContractUs></ContractUs>
             </PrivateRoute>
             <PrivateRoute path='/thankyou'>
               <ThankYou></ThankYou>

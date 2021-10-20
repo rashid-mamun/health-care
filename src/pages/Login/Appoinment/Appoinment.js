@@ -13,8 +13,9 @@ const Appoinment = () => {
         history.push('/thankyou')
     };
     return (
-        <div className='bg-light'>
-            <div className=' d-flex shadow justify-content-center align-items-center'>
+        <div className='py-5 d-flex bg-white justify-content-center align-items-center'>
+            <div className=' d-flex  py-5 justify-content-center align-items-center'>
+
                 <form className="appoinment-form" onSubmit={handleSubmit(onSubmit)}>
 
                     <input defaultValue={user.displayName} {...register("name")} />
@@ -32,6 +33,7 @@ const Appoinment = () => {
 
                     <input type="submit" />
                 </form>
+
 
             </div>
 

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Jasmine Ericsson",
+        "title": "Amazing service!",
+        "img": "http://medicare.bold-themes.com/laboratory/wp-content/uploads/sites/15/2015/12/client-160x160.jpg",
+        "description": "It’s helpful to have a provider who is thorough both in the office visit and the follow up contact. I’ve already recomended to friends and family.",
+        "star": 5
+    },
+    {
+        "id": "2",
+        "name": "Katelin Lee",
+        "title": "Helped me a lot",
+        "img": "http://medicare.bold-themes.com/laboratory/wp-content/uploads/sites/15/2018/03/client-02-160x160.jpg",
+        "description": "Not only was I having problems with my vision but my eyes were also itchy, irritated and red. They treated for dry eyes and my eyes feel great!",
+        "star": 5
+    },
+    {
+        "id": "3",
+        "name": "Mahadey",
+        "title": "Awesome optometrists",
+        "img": "http://medicare.bold-themes.com/laboratory/wp-content/uploads/sites/15/2018/03/client-03-160x160.jpg",
+        "description": "The hours are great, and I didn’t have to wait long, what I also like about your office is that you are up-to-date with state-of the-art equipment.",
+        "star": 5
+    },
+    {
+        "id": "4",
+        "name": "Kazi sadia",
+        "title": "My vision is perfect",
+        "img": "http://medicare.bold-themes.com/laboratory/wp-content/uploads/sites/15/2018/03/client-05-160x160.jpg",
+        "description": "They gave me much more than health – they gave me my life back. One that I can still enjoy with my family and my children.",
+        "star": 5
+    },
+    {
+        "id": "5",
+        "name": "Kathrin",
+        "title": "Best lasik ever!",
+        "img": "http://medicare.bold-themes.com/laboratory/wp-content/uploads/sites/15/2018/03/client-04-160x160.jpg",
+        "description": "Not only was I having problems with my vision but my eyes were also itchy, irritated and red. They treated for dry eyes and my eyes feel great!",
+        "star": 5
+    },
+    {
+        "id": "6",
+        "name": "Tanzim",
+        "title": "Awesome optometrists",
+        "img": "http://medicare.bold-themes.com/laboratory/wp-content/uploads/sites/15/2015/12/client-160x160.jpg",
+        "description": "The hours are great, and I didn’t have to wait long, what I also like about your office is that you are up-to-date with state-of the-art equipment.",
+        "star": 5
+    }
+]

@@ -62,7 +62,7 @@ const Login = () => {
 
     return (
         <div className='d-flex align-items-center pb-5 pt-5  justify-content-center '>
-            <div className='w-25 shadow p-5 rounded'>
+            <div className='shadow p-5 rounded'>
 
                 <form action="" onSubmit={handleLogin}>
                     <input type="email" name="email" id="email" placeholder="Enter Your Email" className='form-control my-3' required onBlur={handleEmailChange} />

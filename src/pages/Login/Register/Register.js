@@ -96,7 +96,7 @@ const Register = () => {
     return (
         <div>
             <div className='d-flex align-items-center pb-5 pt-5  justify-content-center '>
-                <div className='w-50 shadow p-5 rounded'>
+                <div className='shadow p-5 rounded'>
                     <form action="" onSubmit={handleRegistration}>
 
                         <input type="text" name="username" id="username" placeholder="Enter Your Name" className='form-control my-3' onBlur={handleNameChange} required />

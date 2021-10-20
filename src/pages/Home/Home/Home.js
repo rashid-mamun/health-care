@@ -18,3 +18,11 @@ const Home = () => {
 };
 
 export default Home;
+
+
+// Opening Hours
+// Mon – Tues08:00 AM – 05:00PM
+// Wedne – Thur09:00 AM – 06:00PM
+// Fri – Sat10:00 AM – 05:00PM
+// sundayEmergency Only
+// PersonalMon – 10:00 AM

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Carousel, Col } from 'react-bootstrap';
+import { Card, Carousel, Col, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import useAuth from '../../../Hooks/useAuth';
 import './Doctor.css'
@@ -24,18 +24,25 @@ const Doctor = ({ doctor }) => {
                             <p><small>{title}</small></p>
                         </Card.Text>
                     </Card.Body>
-                    <Card.Footer className='border-0 bg-white  d-flex justify-content-center align-items-center'>
+                    <Card.Footer className='border-0 bg-white '>
+
+                        <Row lg={2} md={2} sm={1} xs={1}>
+                            <Col>
+                                <p className="text-center">   <Link to={`/doctor/${id}`} >
+                                    <button className="btn-primary rounded py-1 px-1 me-2">Doctor Details</button>
+                                </Link></p>
+                            </Col>
+                            <Col>
+                                <p className="text-center"> <Link to={`/appoinment`} >
+                                    <button className="btn-regular">Appoinment</button>
+                                </Link>
+                                </p>
+                            </Col>
+                        </Row>
 
 
 
-                        <p>   <Link to={`/doctor/${id}`} >
-                            <button className="btn-primary rounded py-1 me-2">Doctor Details</button>
-                        </Link></p>
 
-                        <p> <Link to={`/appoinment`} >
-                            <button className="btn-regular">Appoinment</button>
-                        </Link>
-                        </p>
 
 
 

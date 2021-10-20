@@ -43,9 +43,9 @@ const DepartmentDetails = () => {
 
     // console.log(departmentName);
     return (
-        <div className=''>
+        <div className='bg-light'>
             <Container>
-                <div className='py-5 shadow px-5'>
+                <div className='py-5'>
                     <h3>Department:</h3>
                     <h4> <small className='text-success ms-2'>{departmentDetails?.name}</small></h4>
                     <p className="ms-2 py-3">{departmentDetails?.description}</p>

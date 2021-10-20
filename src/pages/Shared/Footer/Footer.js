@@ -1,3 +1,4 @@
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
@@ -8,7 +9,7 @@ const Footer = () => {
         <div className='footer'>
             <Container>
                 <Row>
-                    <Col xs={6} md={3}>
+                    <Col xs={6} md={6} lg={3}>
                         {/* <h4>AlMamun</h4> */}
                         <p><small>
                             <img src="https://www.bdspecializedhospital.com/UI/FrontEnd/img/footer-logo.png" alt="" /></small></p>
@@ -16,10 +17,43 @@ const Footer = () => {
                             and
                             specialists, equipments and technology, ambience and service quality.</p>
                     </Col>
-                    <Col xs={6} md={3}>
-                        <h4 className='py-2'>Quick Links
+                    <Col xs={6} md={6} lg={3}>
+                        <h4 className='py-2'>Social Links
                         </h4>
 
+                        <div>
+                            <Link to='' className='nav-item-footer'>
+                                <div className='d-flex  '>
+                                    <p className="me-3"><i class="fab fa-facebook"></i></p>
+                                    <p>Facebook</p>
+                                </div>
+                            </Link>
+                        </div>
+                        <div>
+                            <Link to='' className='nav-item-footer'>
+                                <div className='d-flex  '>
+                                    <p className="me-3"><i class="fab fa-instagram"></i></p>
+                                    <p>Instagram</p>
+                                </div>
+                            </Link>
+                        </div>
+                        <div>
+                            <Link to='' className='nav-item-footer'>
+                                <div className='d-flex  '>
+                                    <p className="me-3"><i class="fab fa-twitter"></i></p>
+                                    <p>Twitter</p>
+                                </div>
+                            </Link>
+                        </div>
+
+
+                    </Col>
+                    <Col xs={6} md={6} lg={3}>
+                        <h4 className='py-2'>
+                            Quick Link</h4>
+                        <p><Link to='/doctors' className='nav-item-footer'>Doctors</Link></p>
+
+                        <p><Link to='/departments' className='nav-item-footer'>Departments</Link></p>
                         <p>  <Link to='/about' className='nav-item-footer'>
                             About Us
                         </Link></p>
@@ -29,24 +63,16 @@ const Footer = () => {
 
 
                     </Col>
-                    <Col xs={6} md={3}>
-                        <h4 className='py-2'>
-                            Quick Link</h4>
-                        <p><Link to='/doctors' className='nav-item-footer'>Doctors</Link></p>
-                        <p><Link to='' className='nav-item-footer'>Services</Link></p>
-                        <p><Link to='' className='nav-item-footer'>Departments</Link></p>
-
-
-                    </Col>
-                    <Col xs={6} md={3}>
+                    <Col xs={6} md={6} lg={3}>
                         <h4 className='py-2'>
 
-                            Contact Us</h4>
+                            Emergency number</h4>
+
+                        <h5 className="text-danger">+91 458 654 528</h5>
                         <p>
-                            House 82, Road 10/1, Block D, Niketan, Gulshan 1, Dhaka - 1212.
+                            Call us now if you are in a medical emergency need, we will reply swiftly and provide you with a medical aid.
                         </p>
-                        <p>+91 458 654 528</p>
-                        <Link to='' className='nav-item-footer'> <p>bshl@gmail.com</p></Link>
+
                     </Col>
                 </Row>
                 <hr />

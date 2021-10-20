@@ -1,13 +1,11 @@
-.appoinment-form{
-    margin:30px 150px;
-}
+
 .appoinment-form input {
     display: block;
     margin-top: 30px;
     padding: 5px;
     border: 1px solid gray;
     border-radius: 5px;
-    width: 350px;
+    width: 330px;
 }
 .error{
     color: red;

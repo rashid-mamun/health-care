@@ -33,6 +33,11 @@ const Header = () => {
                             {/* <NavLink to='/login' className='nav-item' activeStyle={activeStyle}>Log In</NavLink> */}
 
                             {
+                                (user?.email) && <NavLink to='/contractus' className='nav-item' activeStyle={activeStyle}>Contract</NavLink>
+                            }
+
+
+                            {
                                 user?.email && <div className="d-flex justify-content-center align-items-center">
                                     <span className='text-white'> Hello {user.displayName}</span>
                                 </div>
