@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='footer'>
             <Container>
                 <Row>
-                    <Col xs={6} md={6} lg={3}>
+                    <Col >
                         {/* <h4>AlMamun</h4> */}
                         <p><small>
                             <img src="https://www.bdspecializedhospital.com/UI/FrontEnd/img/footer-logo.png" alt="" /></small></p>
@@ -17,7 +17,7 @@ const Footer = () => {
                             and
                             specialists, equipments and technology, ambience and service quality.</p>
                     </Col>
-                    <Col xs={6} md={6} lg={3}>
+                    <Col lg={3} md={6} sm={6} xs={12}>
                         <h4 className='py-2'>Social Links
                         </h4>
 
@@ -48,7 +48,7 @@ const Footer = () => {
 
 
                     </Col>
-                    <Col xs={6} md={6} lg={3}>
+                    <Col lg={3} md={6} sm={6} xs={12}>
                         <h4 className='py-2'>
                             Quick Link</h4>
                         <p><Link to='/doctors' className='nav-item-footer'>Doctors</Link></p>
@@ -63,7 +63,7 @@ const Footer = () => {
 
 
                     </Col>
-                    <Col xs={6} md={6} lg={3}>
+                    <Col lg={3} md={6} sm={6} xs={12}>
                         <h4 className='py-2'>
 
                             Emergency number</h4>

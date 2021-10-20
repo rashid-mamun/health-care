@@ -7,7 +7,7 @@ const About = () => {
 
             <div className="pt-5 pb-5 bg-light">
                 <Container >
-                    <Row md={2}>
+                    <Row md={2} sm={1} xs={1}>
                         <Col>
                             <div className="about-text">
                                 <h4 className='text-primary'>BANGLADESH SPECIALIZED HOSPITAL</h4>
