@@ -6,7 +6,7 @@ import New from '../New/New';
 
 const News = () => {
     const [news, setNews] = useState([]);
-    ;
+
     useEffect(() => {
         fetch('https://api.jsonbin.io/b/617039bd9548541c29c5f82b')
             .then(res => res.json())

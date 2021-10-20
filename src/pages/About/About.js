@@ -1,6 +1,7 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import News from './News/News/News';
+import Testimonials from './Testimonials/Testimonials';
 
 const About = () => {
     return (
@@ -50,6 +51,7 @@ const About = () => {
             </div>
 
             <News></News>
+            <Testimonials></Testimonials>
 
         </div>
     );
